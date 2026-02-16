@@ -1,0 +1,15 @@
+# MATLAB auto-save files
+*.asv
+
+# MATLAB generated files
+*.m~
+*.autosave
+
+# Simulink cache and autosave
+slprj/
+*.slxc
+*.slx.autosave
+*.slx.r20*
+
+# Optional: keep thesis in repo but ignore if large
+# tesi.pdf
