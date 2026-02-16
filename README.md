@@ -78,15 +78,13 @@ Outputs from the ILC and PD simulations (figures and animations) are stored in *
 
 ### Animations
 
-ILC: manipulator motion vs desired trajectory over iterations.
+**ILC** — manipulator motion vs desired trajectory over iterations:
 
-<video src="assets/manipolatoreILC.avi" controls width="640" title="ILC animation">Your browser does not support the video tag. <a href="assets/manipolatoreILC.avi">Download manipolatoreILC.avi</a></video>
+![ILC animation](assets/manipolatoreILC.gif)
 
-PD: manipulator motion with proportional-derivative control.
+**PD** — manipulator motion with proportional-derivative control:
 
-<video src="assets/manipolatorePID.avi" controls width="640" title="PD animation">Your browser does not support the video tag. <a href="assets/manipolatorePID.avi">Download manipolatorePID.avi</a></video>
-
-*If the videos do not play inline, [download manipolatoreILC.avi](assets/manipolatoreILC.avi) or [manipolatorePID.avi](assets/manipolatorePID.avi) and open locally.*
+![PD animation](assets/manipolatorePID.gif)
 
 ---
 
